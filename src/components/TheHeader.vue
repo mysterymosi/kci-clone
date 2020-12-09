@@ -1,0 +1,24 @@
+<template>
+	<header id="header" class="header header-hide">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <h1><a href="#body" class="scrollto"><span>e</span>Startup</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#hero">Home</a></li>
+          <li><a href="#about-us">About</a></li>
+          <li><a href="#features">Investment Packages</a></li>
+          <li><a href="#screenshots">Cryptocurrency List</a></li>
+          <li><a href="#team">FAQs</a></li>
+          <li><a href="#pricing">Testimony</a></li>
+          <li><a href="#contact">Support</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+</template>
