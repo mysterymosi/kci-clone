@@ -17,7 +17,7 @@
 
         <div class="col-md-6 col-lg-3">
           <div class="feature-block">
-            <img src="../assets/img/svg/pixel.svg" alt="img" class="img-fluid">
+            <img src="../assets/img/sign-up.svg" alt="img" class="img-fluid">
             <h4>Sign Up</h4>
             <p>Register an account and fill in necessary information</p>
           </div>
@@ -25,7 +25,7 @@
 
         <div class="col-md-6 col-lg-3">
           <div class="feature-block">
-            <img src="../assets/img/svg/vector.svg" alt="img" class="img-fluid">
+            <img src="../assets/img/wallet.svg" alt="img" class="img-fluid">
             <h4>Fund Your Wallet</h4>
             <p>Fund your wallet using your local bank card</p>
           </div>
@@ -33,7 +33,7 @@
 
         <div class="col-md-6 col-lg-3">
           <div class="feature-block">
-            <img src="../assets/img/svg/design-tool.svg" alt="img" class="img-fluid">
+            <img src="../assets/img/invest.svg" alt="img" class="img-fluid">
             <h4>Invest</h4>
             <p>Invest Preferred amount from your funded wallet</p>
           </div>
@@ -41,7 +41,7 @@
 
         <div class="col-md-6 col-lg-3">
           <div class="feature-block">
-            <img src="../assets/img/svg/asteroid.svg" alt="img" class="img-fluid">
+            <img src="../assets/img/withdraw.svg" alt="img" class="img-fluid">
             <h4>Withdraw</h4>
             <p>Withdraw accrued ROIs to your bank account</p>
           </div>

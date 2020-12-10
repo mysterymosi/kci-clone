@@ -7,7 +7,7 @@
       <div class="row justify-content-center">
 
         <div class="col-md-5 col-lg-5">
-          <img src="../assets/img/about.jpg" alt="About">
+          <img src="../assets/img/segment.svg" alt="About">
         </div>
 
         <div class="col-md-7 col-lg-5">

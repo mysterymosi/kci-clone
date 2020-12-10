@@ -10,10 +10,13 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#hero">Home</a></li>
+          <li class="menu-active">
+            <!-- <a v-if="route === 'Home'" href="#hero">Home</a> -->
+            <router-link to="/">Home</router-link>
+          </li>
           <li><a href="#about-us">About</a></li>
-          <li><a href="#features">Investment Packages</a></li>
-          <li><a href="#screenshots">Cryptocurrency List</a></li>
+          <li><router-link to="/investment-packages">Investment Packages</router-link></li>
+          <li><router-link to="/cryptocurrency-list">Cryptocurrency List</router-link></li>
           <li><a href="#team">FAQs</a></li>
           <li><a href="#pricing">Testimony</a></li>
           <li><a href="#contact">Support</a></li>
@@ -22,3 +25,17 @@
     </div>
   </header><!-- #header -->
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      route: this.$route.name
+    }
+  },
+
+  mounted () {
+    console.log("route: ", this.route);
+  }
+}
+</script>
