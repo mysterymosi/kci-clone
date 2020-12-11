@@ -14,10 +14,10 @@
           <div class="about-content">
 
             <h2><span>About</span>Us </h2>
-            <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+            <p>Cryptan CI, founded in 2015, CI is a trading platform managed by a private trader, Mr. Wesley Hargraves, who trades mostly Cryptocurrency. Mr. Wesley Hargraves has been trading for more than 6 years now and has a vast knowledge of the Crypto Online Market and Cryptocurrency Trading Investment. Cryptan CI is being known for it's transparency and accountability of managing finance in the world of Cryptocurrency Trading Investment and Account Management. We had a breakthrough in the market during the middle of 2016.
             </p>
 
-            <a href="#get-started" class="btn-about scrollto">Get Started</a>
+            <router-link to="/about" class="btn-about scrollto">Read More</router-link>
           </div>
         </div>
 

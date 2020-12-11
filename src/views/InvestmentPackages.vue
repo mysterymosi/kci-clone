@@ -4,11 +4,11 @@
   ============================-->
   <section id="pricing" class="padd-section text-center wow fadeInUp">
 
-    <div class="container">
+    <div class="container mt-5">
       <div class="section-title text-center">
 
-        <h2>Meet With Price</h2>
-        <p class="separator">Integer cursus bibendum augue ac cursus .</p>
+        <h2>Investment Packages</h2>
+        <p class="separator">We take great pride in working with honesty and building trust with clients. As professionals in the field, we aim to use our trading knowledge and experience in order to help create a positive investment outcome. Take a look below to see all that we offer, and get in touch.</p>
 
       </div>
     </div>

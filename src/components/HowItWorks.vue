@@ -50,3 +50,13 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+  img {
+    width: 100px;
+  }
+
+  /*.feature-block {
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+  }*/
+</style>

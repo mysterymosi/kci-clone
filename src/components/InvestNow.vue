@@ -3,7 +3,7 @@
         <div class="container">
             <div class="section-title text-center">
                 <h2>Well, what are you waiting for?</h2>
-                <router-link to="#" class="btn-about">Invest Now</router-link>
+                <router-link to="/investment-packages" class="btn-about">Invest Now</router-link>
             </div>
         </div>
     </section>

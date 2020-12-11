@@ -30,6 +30,42 @@ const routes = [
     name: "CryptocurrencyList",
     component: () =>
       import(/* webpackChunkName: "cryptocurrencyList" */ "../views/CryptocurrencyList.vue")
+  },
+  {
+    path: "/faqs",
+    name: "Faqs",
+    component: () =>
+      import(/* webpackChunkName: "faqs" */ "../views/FAQs.vue")
+  },
+  {
+    path: "/testimonies",
+    name: "Testimonies",
+    component: () =>
+      import(/* webpackChunkName: "testimonies" */ "../views/Testimonies.vue")
+  },
+  {
+    path: "/support",
+    name: "Support",
+    component: () =>
+      import(/* webpackChunkName: "testimonies" */ "../views/Support.vue")
+  },
+  {
+    path: "/login",
+    name: "Login",
+    component: () =>
+      import(/* webpackChunkName: "login" */ "../views/Login.vue")
+  },
+  {
+    path: "/register",
+    name: "Register",
+    component: () =>
+      import(/* webpackChunkName: "register" */ "../views/Register.vue")
+  },
+  {
+    path: "/user-wallet",
+    name: "UserWallet",
+    component: () =>
+      import(/* webpackChunkName: "user-wallet" */ "../views/UserWallet.vue")
   }
 ];
 

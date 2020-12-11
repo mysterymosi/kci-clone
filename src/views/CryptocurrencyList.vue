@@ -3,12 +3,8 @@
     Pricing Table Section
   ============================-->
     <section id="pricing" class="padd-section text-center wow fadeInUp">
-        <div class="row coingecko-script">
-            <div class="col-md-12 col-sm-12">
-                <coingecko-coin-price-marquee-widget coin-ids="bitcoin,eos,ethereum,litecoin,ripple,bitcoin-cash,tether,stellar,tron,binancecoin" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
-            </div>
-        </div>
-        <div class="container">
+      <coingecko-coin-price-marquee-widget coin-ids="bitcoin,eos,ethereum,litecoin,ripple,bitcoin-cash,tether,stellar,tron,binancecoin" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
+        <div class="container mt-5">
             <div class="section-title text-center">
                 <h2>Get updated prices</h2>
                 <p class="separator">on the top 10 cryptocurrencies</p>
@@ -33,10 +29,3 @@ export default {
     }
 }
 </script>
-<style scoped>
-@media (min-width: 990px) {
-    .mt {
-        margin-top: 40px;
-    }
-}
-</style>
